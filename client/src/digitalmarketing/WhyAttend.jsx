@@ -56,7 +56,7 @@ const WhyAttend = () => {
           className="text-4xl md:text-5xl font-extrabold text-black mb-12"
           data-aos="fade-up"
         >
-          Why Attend <span className="text-[#cb2800]">This Webinar?</span>
+          Why should you Attend <span className="text-[#cb2800]">This Webinar?</span>
         </h2>
 
         <div

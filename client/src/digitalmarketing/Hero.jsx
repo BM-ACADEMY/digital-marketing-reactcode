@@ -53,9 +53,8 @@ const Hero = () => {
               data-aos="fade-up"
               data-aos-delay="600"
             >
-              (Now Only{" "}
-              <span className="underline decoration-[#facc15]">₹49</span> – Was{" "}
-              <span className="underline decoration-[#facc15]">₹199!</span>)
+              (Now Just @{" "}
+              <span className="underline decoration-[#facc15]">₹49</span> !!)
             </p>
           </div>
         </div>
